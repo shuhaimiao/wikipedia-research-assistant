@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "wikipedia-research-assistant": {
+      "command": "/Users/smiao/Documents/Workspace/GitHub/shuhaimiao/wikipedia-research-assistant/venv/bin/python",
+      "args": [
+        "/Users/smiao/Documents/Workspace/GitHub/shuhaimiao/wikipedia-research-assistant/src/wikipedia_assistant/server.py"
+      ],
+      "cwd": "/Users/smiao/Documents/Workspace/GitHub/shuhaimiao/wikipedia-research-assistant",
+      "env": {
+        "PYTHONPATH": "/Users/smiao/Documents/Workspace/GitHub/shuhaimiao/wikipedia-research-assistant/src"
+      }
+    }
+  }
+} 
